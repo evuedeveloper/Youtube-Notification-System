@@ -100,7 +100,7 @@
     <li><strong>Notification:</strong> When a new video is uploaded, the manager notifies all subscribers by calling their OnUpdate() method.</li>
 </ul>
 
-<p>I am inspired from this amazing documentation available at <a href="https://www.geeksforgeeks.org/observer-pattern-c-design-patterns/">this documentation available at GeeksforGeeks</a> about the observer design pattern.</p>
+<p>I am inspired from this amazing documentation available at <a href="https://www.geeksforgeeks.org/observer-pattern-c-design-patterns/">GeeksforGeeks</a> about the observer design pattern.</p>
 
 </body>
 </html>
