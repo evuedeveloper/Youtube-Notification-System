@@ -3,7 +3,7 @@
 #include <algorithm>
 using namespace std;
 
-//Interface to create multiple subscriber
+//Interface to create multiple subscribers as our users
 class Subscriber
 {
 public:
