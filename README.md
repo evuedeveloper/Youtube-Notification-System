@@ -92,15 +92,6 @@
     </li>
 </ol>
 
-<h1>Object-Oriented Concepts:</h1>
-
-<ul>
-    <li><strong>Abstraction:</strong> Interfaces Subscriber and NotificationManager provide an abstraction for subscribers and notification managers, respectively.</li>
-    <li><strong>Encapsulation:</strong> Member functions and data are encapsulated within classes, promoting data hiding and encapsulation.</li>
-    <li><strong>Inheritance:</strong> ChannelSubscriber inherits from Subscriber, implementing its interface.</li>
-    <li><strong>Polymorphism:</strong> Polymorphic behavior is achieved through virtual functions (OnUpdate()), allowing different subscriber types to react differently to updates.</li>
-</ul>
-
 <h1>Observer Design Pattern:</h1>
 
 <ul>
