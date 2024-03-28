@@ -5,7 +5,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Project README</title>
 </head>
 <body>
 
@@ -100,6 +99,8 @@
     <li><strong>Loose Coupling:</strong> Subscribers (ChannelSubscriber) are loosely coupled with the subject (SubscriberNotificationManager). They don't need to know the internal details of the manager.</li>
     <li><strong>Notification:</strong> When a new video is uploaded, the manager notifies all subscribers by calling their OnUpdate() method.</li>
 </ul>
+
+<p>I am inspired from this amazing documentation available at <a href="https://www.geeksforgeeks.org/observer-pattern-c-design-patterns/">this documentation available at GeeksforGeeks</a> about the observer design pattern.</p>
 
 </body>
 </html>
